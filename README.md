@@ -1,2 +1,2 @@
 # Meme
-Meme generator website
+Meme generator website using frontend programming
